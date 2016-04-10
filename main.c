@@ -36,7 +36,7 @@ printf("number: %li (prime)\n", cislo);
 return 0;
 }
 
-int palindrom (char *retezec) // funkce urcujici zda neni slovo palindrom
+int palindrom (char *retezec) // funkce urcujici zda neni slovo palindrom pico
 {
 int pocetpismen=0;
 int zacatek;
